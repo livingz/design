@@ -1,4 +1,4 @@
-package com.comp.designmodel.factory.eazy;
+package com.comp.designmodel.creational.factory.eazy;
 
 /**
  * 生成手机类
@@ -13,7 +13,7 @@ public class FactoryMoble  {
      * @param: [phoneName]
      * @Auther: Zouwx
      * @Date: 2019/10/13 12:23
-     * @return: com.comp.designmodel.factory.eazy.Phone
+     * @return: Phone
      */
     public Phone getPhone(String phoneName) {
 

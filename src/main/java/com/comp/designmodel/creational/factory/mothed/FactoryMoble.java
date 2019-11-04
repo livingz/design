@@ -1,4 +1,4 @@
-package com.comp.designmodel.factory.mothed;
+package com.comp.designmodel.creational.factory.mothed;
 
 /**
  * 生成手机类

@@ -1,4 +1,4 @@
-package com.comp.designmodel.factory.service;
+package com.comp.designmodel.creational.factory.service;
 
 import java.sql.*;
 

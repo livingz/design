@@ -1,4 +1,4 @@
-package com.comp.designmodel.factory.eazy;
+package com.comp.designmodel.creational.factory.mothed;
 
 /**
  * @author Zouwx

@@ -1,4 +1,4 @@
-package com.comp.designmodel.factory.abstracts;
+package com.comp.designmodel.creational.factory.abstracts;
 
 /**
  * 生成手机类
