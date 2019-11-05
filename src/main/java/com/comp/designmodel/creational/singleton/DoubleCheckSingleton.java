@@ -1,4 +1,4 @@
-package com.comp.designmodel.singleton;
+package com.comp.designmodel.creational.singleton;
 
 /**
  * @author Zouwx
